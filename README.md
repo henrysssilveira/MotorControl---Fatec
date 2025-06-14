@@ -46,6 +46,7 @@ O Motor Control é um sistema web desenvolvido para gerenciar locadoras de veíc
 ```
 motor-control/
 ├── index.html          # Página principal
+├── dashboard.html      # Página do Dashboard
 ├── login.html          # Página de login
 ├── img/                # Imagens
 └── README.md          # Documentação
@@ -55,15 +56,6 @@ motor-control/
 
 1. Clone ou baixe o projeto
 2. Abra o arquivo `index.html` em um navegador
-3. Ou use um servidor local:
-
-```bash
-# Com Python
-python -m http.server 8000
-
-# Com PHP
-php -S localhost:8000
-```
 
 ## 🎨 Design
 
@@ -72,20 +64,13 @@ php -S localhost:8000
 - **Layout**: Responsivo e moderno
 - **Efeitos**: Transições suaves e hover effects
 
-## 📱 Responsividade
-
-O projeto foi desenvolvido com design responsivo, adaptando-se a:
-- 💻 Desktop
-- 📱 Tablets
-- 📞 Smartphones
-
 ## 🎓 Contexto Acadêmico
 
 **Instituição**: Fatec Dom Amaury Castanho
 **Curso**:  Gestão de TI
 **Disciplina**: Desenvovimento WEB
 
-## 👨‍💻 Desenvolvedor
+## 👨‍💻 Desenvolvedores
 
 **Henrique Silveira**  
 **Rodrigo Berti**  
