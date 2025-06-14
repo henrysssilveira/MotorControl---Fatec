@@ -81,15 +81,14 @@ O projeto foi desenvolvido com design responsivo, adaptando-se a:
 
 ## 🎓 Contexto Acadêmico
 
-**Instituição**: Fatec  
-**Curso**: [Seu Curso]  
-**Disciplina**: [Nome da Disciplina]  
-**Período**: 2025
+**Instituição**: Fatec Dom Amaury Castanho
+**Curso**:  Gestão de TI
+**Disciplina**: Desenvovimento WEB
 
 ## 👨‍💻 Desenvolvedor
 
-**[Seu Nome]**  
-Estudante de [Seu Curso] - Fatec
+**Henrique Silveira**  
+**Rodrigo Berti**  
 
 ## 📄 Licença
 
