@@ -2,6 +2,9 @@
 
 Sistema de gestão para locadoras de veículos desenvolvido como projeto acadêmico.
 
+## Link no Github Pages
+https://henrysssilveira.github.io/MotorControl---Fatec/
+
 ## 📋 Sobre o Projeto
 
 O Motor Control é um sistema web desenvolvido para gerenciar locadoras de veículos. O projeto foi criado como trabalho acadêmico da Fatec e apresenta uma solução completa para controle de frota, clientes e infrações.
