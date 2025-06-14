@@ -21,16 +21,16 @@ O Motor Control é um sistema web desenvolvido para gerenciar locadoras de veíc
 ### 🚗 Controle de Locação
 - Gestão da frota de veículos
 - Controle de disponibilidade
-- Relatórios de ocupação
+- Relatórios de ocupação (Em desenvolvimento)
 
 ### 🚨 Controle de Infrações
 - Monitoramento de multas
-- Controle de prazos
+- Controle de prazos (Em desenvolvimento)
 - Relatórios de infrações
 
 ### 👥 CRM
 - Cadastro de clientes
-- Histórico de locações
+- Histórico de locações (Em desenvolvimento)
 - Gestão de relacionamento
 
 ## 🛠️ Tecnologias
